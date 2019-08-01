@@ -6,3 +6,4 @@ try:
         os.system('"G:\my\mine\\noder\OSTool\cmd\shutdown.cmd"')
 except IndexError:
     pass
+    
